@@ -1,0 +1,2 @@
+# MinChat
+Mina Chat application
